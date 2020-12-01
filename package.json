@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshit-007/git-learn-1.git"
+  },
+  "author": "Akshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshit-007/git-learn-1/issues"
+  },
+  "homepage": "https://github.com/Akshit-007/git-learn-1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
